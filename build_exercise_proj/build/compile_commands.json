@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build",
+  "command": "/usr/bin/c++  -I/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/tools_lib_proj  -o CMakeFiles/build_exercise.dir/src/main.cpp.o -c /home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/src/main.cpp",
+  "file": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/src/main.cpp"
+},
+{
+  "directory": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/tools_lib_proj",
+  "command": "/usr/bin/c++    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/tools_lib_proj/tools.cpp",
+  "file": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/tools_lib_proj/tools.cpp"
+}
+]

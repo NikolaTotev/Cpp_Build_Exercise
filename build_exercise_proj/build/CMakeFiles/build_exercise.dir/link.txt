@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/build_exercise.dir/src/main.cpp.o -o build_exercise   -L/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/tools_lib_proj  -Wl,-rpath,/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/tools_lib_proj tools_lib_proj/libtools.a 

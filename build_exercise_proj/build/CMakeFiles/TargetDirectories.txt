@@ -1,0 +1,6 @@
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/CMakeFiles/build_exercise.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/CMakeFiles/edit_cache.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/CMakeFiles/rebuild_cache.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/tools_lib_proj/CMakeFiles/tools.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/tools_lib_proj/CMakeFiles/edit_cache.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/build_exercise_proj/build/tools_lib_proj/CMakeFiles/rebuild_cache.dir

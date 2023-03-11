@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtools_lib_proj.a CMakeFiles/tools_lib_proj.dir/src/tools_lib/tools.cpp.o
+/usr/bin/ranlib libtools_lib_proj.a

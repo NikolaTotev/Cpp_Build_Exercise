@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/build",
+  "command": "/usr/bin/c++  -I/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/include  -o CMakeFiles/tools_lib_proj.dir/src/tools_lib/tools.cpp.o -c /home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/src/tools_lib/tools.cpp",
+  "file": "/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/src/tools_lib/tools.cpp"
+}
+]

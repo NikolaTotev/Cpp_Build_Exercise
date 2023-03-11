@@ -1,0 +1,3 @@
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/build/CMakeFiles/tools_lib_proj.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/build/CMakeFiles/edit_cache.dir
+/home/nikola/Documents/CPP/Cpp_Build_Exercise/tools_lib_proj/build/CMakeFiles/rebuild_cache.dir
