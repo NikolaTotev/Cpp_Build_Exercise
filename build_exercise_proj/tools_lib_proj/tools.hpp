@@ -1,4 +1,4 @@
-#pragma 
-void Greeting();
+#pragma  
+void Greeting(); 
 
 //for the change
