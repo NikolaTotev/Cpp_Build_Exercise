@@ -1,5 +1,9 @@
-cmake_minimum_required(VERSION 3.1) 
-project(build_exercise) 
+cmake_minimum_required(VERSION 3.10)
+project(
+    build_exercise 
+    LANGUAGES CXX
+    VERSION 1.0.0
+)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON) 
 
@@ -13,9 +17,9 @@ add_executable(
         ${_SRC_DIR}/main.cpp 
 )
 
-add_subdirectory(tools_lib_proj) 
+add_subdirectory(libs)
 
-target_include_directories(${PROJECT_NAME} PUBLIC tools_lib_proj) 
+target_link_libraries(${PROJECT_NAME} PRIVATE tools_lib_proj)
 
 target_link_directories(${PROJECT_NAME} PRIVATE tools_lib_proj) 
 
